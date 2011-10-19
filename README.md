@@ -14,5 +14,5 @@ Within each folder is a `deploy.rb` file which is the base file for the project.
 
 Add recipes for scenarios like thin, passenger or your latest greatest thing under folders.
 
-If you don't like the conventions for the project and suggest new ones.
+If you don't like the conventions fork the project and suggest new ones.
 
